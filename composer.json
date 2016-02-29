@@ -1,0 +1,16 @@
+{
+    "name": "tiagomarciano/acl",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tiago Marciano",
+            "email": "thiagomarciano@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "TiagoMarciano\\Acl\\": "src/"
+        }
+    }
+}
